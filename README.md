@@ -23,7 +23,16 @@ The IPL generates rich cricketing data every season, but extracting actionable i
 | ✅ 5 | Demonstrate storytelling with visuals for analytics hiring portfolios |
 
 ---
+## 📂 Dataset Source
+This project uses publicly available IPL data from Kaggle:  
+[IPL Dataset on Kaggle](https://www.kaggle.com/datasets/ashraykothari/ipldataset)
 
+To use this Power BI dashboard:
+1. Download the dataset
+2. Place the file inside this `/data` folder
+3. Open `IPL_Analysis.pbix` and refresh the data source
+4. **Seasons Covered** : 2008-2020
+---
 ## 💸 Business & Investment Relevance
 
 While primarily built for cricket analytics, this dashboard also serves as a valuable tool for **investors, sponsors, and sports business analysts**:
@@ -49,14 +58,7 @@ While primarily built for cricket analytics, this dashboard also serves as a val
 
 > This makes the dashboard relevant not just for cricket enthusiasts, but also for **finance analysts, sports marketers, startup investors, and media strategists** operating in the IPL ecosystem.
 
-## 📂 Dataset Source
-This project uses publicly available IPL data from Kaggle:  
-[IPL Dataset on Kaggle](https://www.kaggle.com/datasets/ashraykothari/ipldataset)
-
-To use this Power BI dashboard:
-1. Download the dataset
-2. Place the file inside this `/data` folder
-3. Open `IPL_Analysis.pbix` and refresh the data source
+---
 
 ## 📊 Dashboard Features
 
