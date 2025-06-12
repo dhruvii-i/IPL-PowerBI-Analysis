@@ -95,6 +95,6 @@ To use this Power BI dashboard:
 ---
 
 ## 👩‍💻 Author
-## Dhruvi Ranwala
-### 🎓 Aspiring Analytics & AI Professional | 📊 Power BI | 🧠 ML & NLP
-### 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvi-ranwala-596b32233/) | 📁 [GitHub Portfolio](https://github.com/dhruvii-i)
+**Dhruvi Ranwala**
+🎓 Aspiring Analytics & AI Professional | 📊 Power BI | 🧠 ML & NLP
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruvi-ranwala-596b32233/) | 📁 [GitHub Portfolio](https://github.com/dhruvii-i)
