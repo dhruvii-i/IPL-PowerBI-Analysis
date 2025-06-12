@@ -75,10 +75,10 @@ To use this Power BI dashboard:
 ## 📌 Visual Examples
 
 ### 📷 Dashboard Preview 1: Overall Match Insights
-![Overview Screenshot](screenshots/IPL_Home.png)
+![Overview Screenshot](screenshots/IPL_home.png)
 
 ### 📷 Dashboard Preview 2: Top Players Comparison
-![Player Screenshot](screenshots/Team-Players.png)
+![Player Screenshot](screenshots/Team-Player.png)
 
 ---
 
