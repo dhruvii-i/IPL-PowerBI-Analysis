@@ -75,10 +75,10 @@ To use this Power BI dashboard:
 ## 📌 Visual Examples
 
 ### 📷 Dashboard Preview 1: Overall Match Insights
-![Overview Screenshot](screenshots/dashboard_overview.png)
+![Overview Screenshot](screenshots/IPL_Home.png)
 
 ### 📷 Dashboard Preview 2: Top Players Comparison
-![Player Screenshot](screenshots/Team_Players.png)
+![Player Screenshot](screenshots/Team-Players.png)
 
 ---
 
@@ -96,5 +96,7 @@ To use this Power BI dashboard:
 
 ## 👩‍💻 Author
 **Dhruvi Ranwala**
+
 🎓 Aspiring Analytics & AI Professional | 📊 Power BI | 🧠 ML & NLP
+
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvi-ranwala-596b32233/) | 📁 [GitHub Portfolio](https://github.com/dhruvii-i)
