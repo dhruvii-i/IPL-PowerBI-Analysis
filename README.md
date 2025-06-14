@@ -12,6 +12,15 @@ The IPL generates rich cricketing data every season, but extracting actionable i
 
 ---
 
+## 📌 Visual Examples
+
+### 📷 Dashboard Preview 1: Overall Match Insights
+![Overview Screenshot](screenshots/IPL_home.png)
+
+### 📷 Dashboard Preview 2: Top Players Comparison
+![Player Screenshot](screenshots/Team-Player.png)
+
+---
 ## 🚀 Project Goals
 
 | Goal # | Description |
@@ -72,15 +81,6 @@ While primarily built for cricket analytics, this dashboard also serves as a val
 | 🔢 **Custom KPIs**          | Win ratio, average score, toss impact percentage, etc. via DAX |
 | 🔄 **Drillthrough Support** | Deep dives into individual matches or players |
 
----
-
-## 📌 Visual Examples
-
-### 📷 Dashboard Preview 1: Overall Match Insights
-![Overview Screenshot](screenshots/IPL_home.png)
-
-### 📷 Dashboard Preview 2: Top Players Comparison
-![Player Screenshot](screenshots/Team-Player.png)
 
 ---
 
